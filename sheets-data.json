@@ -1,0 +1,106 @@
+[
+  {
+    "sheetName": "Blind 75",
+    "sections": [
+      {
+        "sectionName": "Array",
+        "problems": [
+          {
+            "problemName": "Two Sum",
+            "problemLink": "https://leetcode.com/problems/two-sum/",
+            "problemStatus": "unlocked",
+            "problemDifficulty": "easy"
+          },
+          {
+            "problemName": "Best Time to Buy and Sell Stock",
+            "problemLink": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock/",
+            "problemStatus": "unlocked",
+            "problemDifficulty": "easy"
+          },
+          {
+            "problemName": "Contains Duplicate",
+            "problemLink": "https://leetcode.com/problems/contains-duplicate/",
+            "problemStatus": "unlocked",
+            "problemDifficulty": "easy"
+          },
+          {
+            "problemName": "Product of Array Except Self",
+            "problemLink": "https://leetcode.com/problems/product-of-array-except-self/",
+            "problemStatus": "unlocked",
+            "problemDifficulty": "medium"
+          },
+          {
+            "problemName": "Maximum Subarray",
+            "problemLink": "https://leetcode.com/problems/maximum-subarray/",
+            "problemStatus": "unlocked",
+            "problemDifficulty": "medium"
+          },
+          {
+            "problemName": "3Sum",
+            "problemLink": "https://leetcode.com/problems/3sum/",
+            "problemStatus": "unlocked",
+            "problemDifficulty": "medium"
+          }
+        ]
+      },
+      {
+        "sectionName": "String",
+        "problems": [
+          {
+            "problemName": "Valid Anagram",
+            "problemLink": "https://leetcode.com/problems/valid-anagram/",
+            "problemStatus": "unlocked",
+            "problemDifficulty": "easy"
+          },
+          {
+            "problemName": "Valid Parentheses",
+            "problemLink": "https://leetcode.com/problems/valid-parentheses/",
+            "problemStatus": "unlocked",
+            "problemDifficulty": "easy"
+          },
+          {
+            "problemName": "Longest Palindromic Substring",
+            "problemLink": "https://leetcode.com/problems/longest-palindromic-substring/",
+            "problemStatus": "unlocked",
+            "problemDifficulty": "medium"
+          },
+          {
+            "problemName": "Longest Substring Without Repeating Characters",
+            "problemLink": "https://leetcode.com/problems/longest-substring-without-repeating-characters/",
+            "problemStatus": "unlocked",
+            "problemDifficulty": "medium"
+          }
+        ]
+      },
+      {
+        "sectionName": "Tree",
+        "problems": [
+          {
+            "problemName": "Maximum Depth of Binary Tree",
+            "problemLink": "https://leetcode.com/problems/maximum-depth-of-binary-tree/",
+            "problemStatus": "unlocked",
+            "problemDifficulty": "easy"
+          },
+          {
+            "problemName": "Same Tree",
+            "problemLink": "https://leetcode.com/problems/same-tree/",
+            "problemStatus": "unlocked",
+            "problemDifficulty": "easy"
+          },
+          {
+            "problemName": "Binary Tree Level Order Traversal",
+            "problemLink": "https://leetcode.com/problems/binary-tree-level-order-traversal/",
+            "problemStatus": "unlocked",
+            "problemDifficulty": "medium"
+          },
+          {
+            "problemName": "Validate Binary Search Tree",
+            "problemLink": "https://leetcode.com/problems/validate-binary-search-tree/",
+            "problemStatus": "unlocked",
+            "problemDifficulty": "medium"
+          }
+        ]
+      }
+    ]
+  }
+]
