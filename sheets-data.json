@@ -102,5 +102,97 @@
         ]
       }
     ]
+  },
+  {
+    "sheetName": "Top 100 Liked Problems",
+    "sections": [
+      {
+        "sectionName": "Linked List",
+        "problems": [
+          {
+            "problemName": "Reverse Linked List",
+            "problemLink": "https://leetcode.com/problems/reverse-linked-list/",
+            "problemStatus": "unlocked",
+            "problemDifficulty": "easy"
+          },
+          {
+            "problemName": "Merge Two Sorted Lists",
+            "problemLink": "https://leetcode.com/problems/merge-two-sorted-lists/",
+            "problemStatus": "unlocked",
+            "problemDifficulty": "easy"
+          },
+          {
+            "problemName": "Linked List Cycle",
+            "problemLink": "https://leetcode.com/problems/linked-list-cycle/",
+            "problemStatus": "unlocked",
+            "problemDifficulty": "medium"
+          },
+          {
+            "problemName": "Add Two Numbers",
+            "problemLink": "https://leetcode.com/problems/add-two-numbers/",
+            "problemStatus": "unlocked",
+            "problemDifficulty": "medium"
+          }
+        ]
+      },
+      {
+        "sectionName": "Dynamic Programming",
+        "problems": [
+          {
+            "problemName": "Climbing Stairs",
+            "problemLink": "https://leetcode.com/problems/climbing-stairs/",
+            "problemStatus": "unlocked",
+            "problemDifficulty": "easy"
+          },
+          {
+            "problemName": "House Robber",
+            "problemLink": "https://leetcode.com/problems/house-robber/",
+            "problemStatus": "unlocked",
+            "problemDifficulty": "medium"
+          },
+          {
+            "problemName": "Coin Change",
+            "problemLink": "https://leetcode.com/problems/coin-change/",
+            "problemStatus": "unlocked",
+            "problemDifficulty": "medium"
+          },
+          {
+            "problemName": "Longest Increasing Subsequence",
+            "problemLink": "https://leetcode.com/problems/longest-increasing-subsequence/",
+            "problemStatus": "unlocked",
+            "problemDifficulty": "medium"
+          }
+        ]
+      },
+      {
+        "sectionName": "Math",
+        "problems": [
+          {
+            "problemName": "Add Binary",
+            "problemLink": "https://leetcode.com/problems/add-binary/",
+            "problemStatus": "unlocked",
+            "problemDifficulty": "easy"
+          },
+          {
+            "problemName": "Sqrt(x)",
+            "problemLink": "https://leetcode.com/problems/sqrtx/",
+            "problemStatus": "unlocked",
+            "problemDifficulty": "easy"
+          },
+          {
+            "problemName": "Multiply Strings",
+            "problemLink": "https://leetcode.com/problems/multiply-strings/",
+            "problemStatus": "unlocked",
+            "problemDifficulty": "medium"
+          },
+          {
+            "problemName": "Integer to Roman",
+            "problemLink": "https://leetcode.com/problems/integer-to-roman/",
+            "problemStatus": "unlocked",
+            "problemDifficulty": "medium"
+          }
+        ]
+      }
+    ]
   }
 ]
